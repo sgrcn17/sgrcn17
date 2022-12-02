@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 * algorytmike
 * gry komputerowe
 
-### [Moja strona]:https://sgrcn17.github.io
+### [Moja strona](https://sgrcn17.github.io)
 

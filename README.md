@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 
 ### [Moja strona](https://sgrcn17.github.io)
 
+https://github.com/sgrcn17/DETA
+https://paperswithcode.com/paper/nms-strikes-back
+

@@ -37,3 +37,7 @@
 ###
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sgrcn?theme=dark)
+
+###
+
+![snake gif](https://github.com/sgrcn17/sgrcn17/blob/output/github-contribution-grid-snake-dark.svg)

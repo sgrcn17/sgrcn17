@@ -32,11 +32,8 @@
 [![Static Badge](https://img.shields.io/badge/SPOJ-337AB7?logo=spoj&logoColor=white)](https://pl.spoj.com/users/sgrcn/)
 [![Static Badge](https://img.shields.io/badge/SPOJ-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/aleksy?locale=en)
 
-[![](https://github.com/sgrcn17/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/aleksy?locale=en)
-
-###
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sgrcn?theme=dark)
+[<img src="https://github.com/sgrcn17/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces" height="240"/>](https://codeforces.com/profile/aleksy?locale=en)
+[<img src="https://leetcard.jacoblin.cool/Sgrcn?theme=dark&font=Exo&ext=activity" alt="LeetCode" height="240"/>](https://leetcode.com/Sgrcn/)
 
 ###
 

@@ -14,7 +14,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,git,github,blender,unity,unrealengine)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,git,github,blender,unity,unrealengine,postgres,tensorflow,vscode,latex)](https://skillicons.dev)
 
 ###
 

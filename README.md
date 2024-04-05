@@ -30,9 +30,9 @@
 ###
 
 [![Static Badge](https://img.shields.io/badge/SPOJ-337AB7?logo=spoj&logoColor=white)](https%3A%2F%2Fpl.spoj.com%2Fusers%2Fsgrcn%2F)
-[![Static Badge](https://img.shields.io/badge/SPOJ-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/aleksy)
+[![Static Badge](https://img.shields.io/badge/SPOJ-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/aleksy?locale=en)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aleksy&theme=dark&scale=0.5)](https://codeforces.com/profile/aleksy)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aleksy&theme=dark&scale=0.5)](https://codeforces.com/profile/aleksy?locale=en)
 
 ###
 

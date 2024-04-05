@@ -30,10 +30,13 @@
 ###
 
 [![Static Badge](https://img.shields.io/badge/SPOJ-337AB7?logo=spoj&logoColor=white)](https://pl.spoj.com/users/sgrcn/)
-[![Static Badge](https://img.shields.io/badge/SPOJ-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/aleksy?locale=en)
+[![Static Badge](https://img.shields.io/badge/codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/aleksy?locale=en)
+[![Static Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/Sgrcn/)
 
-[<img src="https://github.com/sgrcn17/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces" height="240"/>](https://codeforces.com/profile/aleksy?locale=en)
-[<img src="https://leetcard.jacoblin.cool/Sgrcn?theme=dark&font=Exo&ext=activity" alt="LeetCode" height="240"/>](https://leetcode.com/Sgrcn/)
+* **25th place in AMPPZ 2023** <br>
+
+[<img src="https://github.com/sgrcn17/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces" height="280"/>](https://codeforces.com/profile/aleksy?locale=en)
+[<img src="https://leetcard.jacoblin.cool/Sgrcn?theme=dark&font=Exo&ext=activity" alt="LeetCode" height="280"/>](https://leetcode.com/Sgrcn/)
 
 ###
 

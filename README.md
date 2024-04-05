@@ -32,7 +32,7 @@
 [![Static Badge](https://img.shields.io/badge/SPOJ-337AB7?logo=spoj&logoColor=white)](https://pl.spoj.com/users/sgrcn/)
 [![Static Badge](https://img.shields.io/badge/SPOJ-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/aleksy?locale=en)
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=aleksy&theme=dark&scale=0.5)](https://codeforces.com/profile/aleksy?locale=en)
+[![](https://github.com/sgrcn17/cf-stats/blob/main/output/light_card.svg#gh-dark-mode-only)](https://codeforces.com/profile/aleksy?locale=en)
 
 ###
 

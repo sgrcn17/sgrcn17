@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">⌨️ I'm a competitive programmer<br>🏫 I'm studying on AGH<br>🎮 I'm a gamer (I love souls-likes)</p>
+<p align="left">⌨️ I'm a competitive programmer<br>🏫 I'm studying on AGH<br>🎮 I'm a gamer</p>
 
 ###
 

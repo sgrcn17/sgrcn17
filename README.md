@@ -14,8 +14,7 @@
 
 ###
 
-![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,git,github,blender,unity,unrealengine,postgres,vscode,latex,tensorflow)
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/pandas-dark.svg" width="50"></a>
+![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,git,github,blender,unity,unrealengine,postgres,vscode,latex)
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/numpy-dark.svg" width="50"></a>
 
 ###
